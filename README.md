@@ -1,3 +1,3 @@
 # A Full Stack E-Commerce App with an Admin Dashboard & CMS | Next 14, Stripe
-![e-commerce](https://images.unsplash.com/photo-1563013544-824ae1b704d3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+![e-commerce](https://img.freepik.com/free-vector/social-media-marketing-mobile-phone-concept_23-2148431747.jpg?w=740&t=st=1704568245~exp=1704568845~hmac=a372bc934ad261ca3b11cb3feceb7f33249fc42fd9315aa8dec6444857f950cd)
 
